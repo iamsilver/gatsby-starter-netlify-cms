@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Willa Anna Szczawno Zdrój
-image: /img/oips0xh4zbl.jpg
+image: /img/chemex.jpg
 heading: Nasze pokoje specjalnie dla Was
 subheading: Nasz czas jest zawsze do Waszej dyspozycji
 mainpitch:
